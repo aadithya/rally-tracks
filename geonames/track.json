@@ -8,12 +8,1817 @@
       "name": "geonames",
       "body": "index.json",
       "types": [ "type" ]
+    },
+    {
+      "name": "geonames_1",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_2",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_3",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_4",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_5",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_6",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_7",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_8",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_9",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_10",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_11",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_12",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_13",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_14",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_15",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_16",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_17",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_18",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_19",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_20",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_21",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_22",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_23",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_24",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_25",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_26",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_27",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_28",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_29",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_30",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_31",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_32",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_33",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_34",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_35",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_36",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_37",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_38",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_39",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_40",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_41",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_42",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_43",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_44",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_45",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_46",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_47",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_48",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_49",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_50",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_51",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_52",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_53",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_54",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_55",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_56",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_57",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_58",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_59",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_60",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_61",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_62",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_63",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_64",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_65",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_66",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_67",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_68",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_69",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_70",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_71",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_72",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_73",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_74",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_75",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_76",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_77",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_78",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_79",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_80",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_81",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_82",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_83",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_84",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_85",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_86",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_87",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_88",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_89",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_90",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_91",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_92",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_93",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_94",
+      "body": "index.json",
+      "types": [ "type" ]
+    },
+    {
+      "name": "geonames_95",
+      "body": "index.json",
+      "types": [ "type" ]
     }
   ],
   "corpora": [
     {
       "name": "geonames",
       "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_1",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_1",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_2",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_2",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_3",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_3",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_4",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_4",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_5",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_5",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_6",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_6",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_7",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_7",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_8",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_8",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_9",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_9",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_10",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_10",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_11",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_11",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_12",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_12",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_13",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_13",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_14",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_14",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_15",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_15",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_16",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_16",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_17",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_17",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_18",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_18",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_19",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_19",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_20",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_20",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_21",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_21",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_22",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_22",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_23",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_23",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_24",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_24",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_25",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_25",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_26",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_26",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_27",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_27",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_28",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_28",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_29",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_29",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_30",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_30",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_31",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_31",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_32",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_32",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_33",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_33",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_34",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_34",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_35",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_35",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_36",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_36",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_37",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_37",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_38",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_38",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_39",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_39",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_40",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_40",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_41",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_41",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_42",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_42",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_43",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_43",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_44",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_44",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_45",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_45",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_46",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_46",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_47",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_47",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_48",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_48",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_49",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_49",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_50",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_50",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_51",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_51",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_52",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_52",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_53",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_53",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_54",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_54",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_55",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_55",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_56",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_56",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_57",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_57",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_58",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_58",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_59",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_59",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_60",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_60",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_61",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_61",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_62",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_62",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_63",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_63",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_64",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_64",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_65",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_65",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_66",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_66",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_67",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_67",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_68",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_68",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_69",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_69",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_70",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_70",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_71",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_71",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_72",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_72",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_73",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_73",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_74",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_74",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_75",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_75",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_76",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_76",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_77",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_77",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_78",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_78",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_79",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_79",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_80",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_80",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_81",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_81",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_82",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_82",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_83",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_83",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_84",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_84",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_85",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_85",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_86",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_86",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_87",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_87",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_88",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_88",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_89",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_89",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_90",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_90",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_91",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_91",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_92",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_92",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_93",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_93",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_94",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_94",
+      "target-type": "type"
+      "documents": [
+        {
+          "source-file": "documents-2.json.bz2",
+          "document-count": 11396505,
+          "compressed-bytes": 264698741,
+          "uncompressed-bytes": 3547614383
+        }
+      ]
+    },
+    {
+      "name": "geonames_95",
+      "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames_95",
+      "target-type": "type"
       "documents": [
         {
           "source-file": "documents-2.json.bz2",
