@@ -489,6 +489,8 @@
     {
       "name": "geonames",
       "base-url": "http://benchmarks.elasticsearch.org.s3.amazonaws.com/corpora/geonames",
+      "target-index": "geonames",
+      "target-type": "type",
       "documents": [
         {
           "source-file": "documents-2.json.bz2",
